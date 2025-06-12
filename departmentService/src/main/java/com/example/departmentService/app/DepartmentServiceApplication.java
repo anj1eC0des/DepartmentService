@@ -1,4 +1,4 @@
-package com.example.departmentService;
+package com.example.departmentService.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
